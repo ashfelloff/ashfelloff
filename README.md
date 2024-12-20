@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ashfelloff&color=grey&style=for-the-badge&label=views)
+![](https://komarev.com/ghpvc/?username=ashfelloff&color=101414&style=for-the-badge&label=views)
 <!--
 **ashfelloff/ashfelloff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
